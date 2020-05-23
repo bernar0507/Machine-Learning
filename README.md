@@ -4,4 +4,9 @@ The homeworks and activities developed in class are avaivable in the from page. 
 with the respective names.
 
 # What I've learned?
+I've learned some amazing tools like:
+    PyTorch
+    Scikit Learn
+    Numpy
+    Pandas 
 
